@@ -6,9 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou formado em Engenharia Civil, mas tenho um
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="100" height="100" />
           
 
-## 🌱 Futuro próximo // Tenho interesse
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="100" height="100"/>
-          
+       
           
 
 ## 📫 Como me encontrar
